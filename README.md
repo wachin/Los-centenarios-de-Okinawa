@@ -26,7 +26,7 @@ es cinco veces menor que entre los estadounidenses de la misma edad y también s
 
 El Doctor Makoto Suzuki lleva desde el año 1975 realizando un exhaustivo seguimiento 
 
-![](vx_images/00.01.39 Anti-agin medicine.jpg)
+![](vx_images/00.01.39-Anti-agin-medicine.jpg)
 
 de la vida de alrededor de 2500 centenarios de Okinawa. 
 
