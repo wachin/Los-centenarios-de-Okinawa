@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2023-02-04T17:09:34.022702390</meta:creation-date><dc:date>2023-02-05T16:44:00.308780173</dc:date><meta:editing-duration>PT1H47M9S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:generator>LibreOffice/7.0.4.2$Linux_x86 LibreOffice_project/00$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="48" meta:object-count="0" meta:page-count="8" meta:paragraph-count="111" meta:word-count="1098" meta:character-count="6650" meta:non-whitespace-character-count="5614"/></office:meta>
+ <office:meta><meta:creation-date>2023-02-04T17:09:34.022702390</meta:creation-date><dc:date>2023-02-05T16:52:42.493725249</dc:date><meta:editing-duration>PT1H55M12S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:generator>LibreOffice/7.0.4.2$Linux_x86 LibreOffice_project/00$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="48" meta:object-count="0" meta:page-count="7" meta:paragraph-count="111" meta:word-count="1098" meta:character-count="6650" meta:non-whitespace-character-count="5614"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">64830</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">168</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">35437</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">18824</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">8717</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">2424</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">19943</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">208906</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">64830</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">168</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">35435</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">83652</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">18990</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -321,7 +321,7 @@
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:vertical-pos="top" style:vertical-rel="baseline" fo:padding="0cm" fo:border="none" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+   <style:graphic-properties style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
    <style:section-properties text:dont-balance-text-columns="false" style:editable="false">
@@ -9135,7 +9135,7 @@
       </draw:frame></draw:a></text:p>
     <text:p text:style-name="P2">para los clientes de su restaurante. Ironías de la historia,</text:p>
     <text:p text:style-name="P5"/>
-    <text:p text:style-name="P5"><draw:frame draw:style-name="fr3" draw:name="Imagen49" text:anchor-type="char" svg:width="8.752cm" svg:height="4.868cm" draw:z-index="47"><draw:image draw:mime-type="image/jpeg">
+    <text:p text:style-name="P5"><draw:frame draw:style-name="fr3" draw:name="Imagen49" text:anchor-type="char" svg:width="8.195cm" svg:height="4.558cm" draw:z-index="47"><draw:image draw:mime-type="image/jpeg">
        <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABUOEBIQDRUSERIYFhUZHzQiHx0dH0AuMCY0TENQ
         T0tDSUhUXnlmVFlyWkhJaY9qcnyAh4iHUWWUn5ODnXmEh4L/2wBDARYYGB8cHz4iIj6CVklW
         goKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoL/wAAR
@@ -13991,7 +13991,7 @@
        </draw:image>
       </draw:frame></draw:a></text:p>
     <text:p text:style-name="P2">un poco de pescado,</text:p>
-    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.04.58-un-poco-de-pescado.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen20" text:anchor-type="as-char" svg:width="8.525cm" svg:height="4.748cm" draw:z-index="18"><draw:image draw:mime-type="image/jpeg">
+    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.04.58-un-poco-de-pescado.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen20" text:anchor-type="as-char" svg:width="8.232cm" svg:height="4.586cm" draw:z-index="18"><draw:image draw:mime-type="image/jpeg">
         <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABUOEBIQDRUSERIYFhUZHzQiHx0dH0AuMCY0TENQ
          T0tDSUhUXnlmVFlyWkhJaY9qcnyAh4iHUWWUn5ODnXmEh4L/2wBDARYYGB8cHz4iIj6CVklW
          goKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoL/wAAR
@@ -15275,7 +15275,7 @@
        </draw:image>
       </draw:frame></draw:a></text:p>
     <text:p text:style-name="P2">o un poco de carne; es la alimentación ideal para vivir mucho tiempo</text:p>
-    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.05.01-es-la-alimentación-ideal-para-vivir-mucho-tiempo.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen21" text:anchor-type="as-char" svg:width="8.595cm" svg:height="4.787cm" draw:z-index="19"><draw:image draw:mime-type="image/jpeg">
+    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.05.01-es-la-alimentación-ideal-para-vivir-mucho-tiempo.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen21" text:anchor-type="as-char" svg:width="8.266cm" svg:height="4.604cm" draw:z-index="19"><draw:image draw:mime-type="image/jpeg">
         <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABUOEBIQDRUSERIYFhUZHzQiHx0dH0AuMCY0TENQ
          T0tDSUhUXnlmVFlyWkhJaY9qcnyAh4iHUWWUn5ODnXmEh4L/2wBDARYYGB8cHz4iIj6CVklW
          goKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoL/wAAR
@@ -17377,7 +17377,7 @@
        </draw:image>
       </draw:frame></draw:a></text:p>
     <text:p text:style-name="P2">Muchos de estos alimentos</text:p>
-    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.05.15-muchos-de-estos-alimentos.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen23" text:anchor-type="as-char" svg:width="8.539cm" svg:height="4.757cm" draw:z-index="21"><draw:image draw:mime-type="image/jpeg">
+    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.05.15-muchos-de-estos-alimentos.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen23" text:anchor-type="as-char" svg:width="8.225cm" svg:height="4.583cm" draw:z-index="21"><draw:image draw:mime-type="image/jpeg">
         <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABUOEBIQDRUSERIYFhUZHzQiHx0dH0AuMCY0TENQ
          T0tDSUhUXnlmVFlyWkhJaY9qcnyAh4iHUWWUn5ODnXmEh4L/2wBDARYYGB8cHz4iIj6CVklW
          goKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoL/wAAR
@@ -18171,7 +18171,7 @@
        </draw:image>
       </draw:frame></draw:a></text:p>
     <text:p text:style-name="P2">se consumen en su forma más natural posible,</text:p>
-    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.05.17-en-su-forma-más-natural-posible.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen24" text:anchor-type="as-char" svg:width="8.569cm" svg:height="4.773cm" draw:z-index="22"><draw:image draw:mime-type="image/jpeg">
+    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.05.17-en-su-forma-más-natural-posible.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen24" text:anchor-type="as-char" svg:width="8.158cm" svg:height="4.544cm" draw:z-index="22"><draw:image draw:mime-type="image/jpeg">
         <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABUOEBIQDRUSERIYFhUZHzQiHx0dH0AuMCY0TENQ
          T0tDSUhUXnlmVFlyWkhJaY9qcnyAh4iHUWWUn5ODnXmEh4L/2wBDARYYGB8cHz4iIj6CVklW
          goKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoL/wAAR
@@ -27507,7 +27507,7 @@
     <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.06.46-las-nuevas-formas-de-alimentación.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr2" draw:name="Imagen33" text:anchor-type="as-char" svg:width="8.052cm" svg:height="4.128cm" draw:z-index="31"><draw:image xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/raw/main/vx_images/00.06.46-las-nuevas-formas-de-alimentación.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
       </draw:frame></draw:a></text:p>
     <text:p text:style-name="P2">multiplican los casos de obesidad y diabetes. Las enfermedades cardiovasculares y cerebrales han experimentado un fuerte aumento</text:p>
-    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.06.53-Las-enfermedades-cardio-y-cere-han-experimen-un-fuerte-aumento.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen34" text:anchor-type="as-char" svg:width="8.147cm" svg:height="4.538cm" draw:z-index="32"><draw:image draw:mime-type="image/jpeg">
+    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.06.53-Las-enfermedades-cardio-y-cere-han-experimen-un-fuerte-aumento.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen34" text:anchor-type="as-char" svg:width="7.86cm" svg:height="4.378cm" draw:z-index="32"><draw:image draw:mime-type="image/jpeg">
         <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABUOEBIQDRUSERIYFhUZHzQiHx0dH0AuMCY0TENQ
          T0tDSUhUXnlmVFlyWkhJaY9qcnyAh4iHUWWUn5ODnXmEh4L/2wBDARYYGB8cHz4iIj6CVklW
          goKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoL/wAAR
@@ -35807,7 +35807,7 @@
        </draw:image>
       </draw:frame></draw:a></text:p>
     <text:p text:style-name="P2">y medio de personas anualmente.</text:p>
-    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.08.37-y-medio-de-personas-anualmente.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen43" text:anchor-type="as-char" svg:width="8.696cm" svg:height="4.844cm" draw:z-index="41"><draw:image draw:mime-type="image/jpeg">
+    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.08.37-y-medio-de-personas-anualmente.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen43" text:anchor-type="as-char" svg:width="8.266cm" svg:height="4.604cm" draw:z-index="41"><draw:image draw:mime-type="image/jpeg">
         <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABUOEBIQDRUSERIYFhUZHzQiHx0dH0AuMCY0TENQ
          T0tDSUhUXnlmVFlyWkhJaY9qcnyAh4iHUWWUn5ODnXmEh4L/2wBDARYYGB8cHz4iIj6CVklW
          goKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoL/wAAR
@@ -36572,7 +36572,7 @@
        </draw:image>
       </draw:frame></draw:a></text:p>
     <text:p text:style-name="P2">En la actualidad uno de cada tres estadounidenses es obeso,</text:p>
-    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.08.40-en-la-actualidad-1-de-cada-3-EEUU-es-obeso.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen44" text:anchor-type="as-char" svg:width="8.581cm" svg:height="4.78cm" draw:z-index="42"><draw:image draw:mime-type="image/jpeg">
+    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.08.40-en-la-actualidad-1-de-cada-3-EEUU-es-obeso.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen44" text:anchor-type="as-char" svg:width="8.232cm" svg:height="4.586cm" draw:z-index="42"><draw:image draw:mime-type="image/jpeg">
         <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABUOEBIQDRUSERIYFhUZHzQiHx0dH0AuMCY0TENQ
          T0tDSUhUXnlmVFlyWkhJaY9qcnyAh4iHUWWUn5ODnXmEh4L/2wBDARYYGB8cHz4iIj6CVklW
          goKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoL/wAAR
@@ -37501,21 +37501,20 @@
        </draw:image>
       </draw:frame></draw:a></text:p>
     <text:p text:style-name="P2">esta enfermedad se ha convertido en la segunda causa de mortalidad del país,</text:p>
-    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.08.46-2da-causa-de-mortalidad-del-país.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr2" draw:name="Imagen45" text:anchor-type="as-char" svg:width="8.465cm" svg:height="4.339cm" draw:z-index="43"><draw:image xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/raw/main/vx_images/00.08.46-2da-causa-de-mortalidad-del-país.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.08.46-2da-causa-de-mortalidad-del-país.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr2" draw:name="Imagen45" text:anchor-type="as-char" svg:width="8.142cm" svg:height="4.173cm" draw:z-index="43"><draw:image xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/raw/main/vx_images/00.08.46-2da-causa-de-mortalidad-del-país.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
       </draw:frame></draw:a></text:p>
     <text:p text:style-name="P2">se calcula que la esperanza de vida del 75%</text:p>
-    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.08.49-la-esperanza-de-vida-del-75.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen46" text:anchor-type="as-char" svg:width="8.433cm" svg:height="4.323cm" draw:z-index="44"><draw:image xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/raw/main/vx_images/00.08.49-la-esperanza-de-vida-del-75.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
+    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.08.49-la-esperanza-de-vida-del-75.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen46" text:anchor-type="as-char" svg:width="8.057cm" svg:height="4.131cm" draw:z-index="44"><draw:image xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/raw/main/vx_images/00.08.49-la-esperanza-de-vida-del-75.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
       </draw:frame></draw:a></text:p>
     <text:p text:style-name="P2">de los niños estadounidenses nacidos después del año 2000</text:p>
-    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.08.54-después-del-año-2000.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen47" text:anchor-type="as-char" svg:width="8.433cm" svg:height="4.323cm" draw:z-index="45"><draw:image xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/raw/main/vx_images/00.08.54-después-del-año-2000.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
+    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.08.54-después-del-año-2000.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen47" text:anchor-type="as-char" svg:width="8.091cm" svg:height="4.149cm" draw:z-index="45"><draw:image xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/raw/main/vx_images/00.08.54-después-del-año-2000.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
       </draw:frame></draw:a></text:p>
     <text:p text:style-name="P2">no llegará a los 70 años. En 1975 EEUU ocupaba el tercer lugar en esperanza de vida entre los doce países más industrializados del mundo,</text:p>
-    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.09.08-12-países-más-industrializados-del-mundo.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen48" text:anchor-type="as-char" svg:width="8.259cm" svg:height="4.233cm" draw:z-index="46"><draw:image xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/raw/main/vx_images/00.09.08-12-países-más-industrializados-del-mundo.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
+    <text:p text:style-name="P5"><draw:a xlink:type="simple" xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/blob/main/vx_images/00.09.08-12-países-más-industrializados-del-mundo.jpg" office:target-frame-name="_blank" xlink:show="new"><draw:frame draw:style-name="fr1" draw:name="Imagen48" text:anchor-type="as-char" svg:width="7.99cm" svg:height="4.096cm" draw:z-index="46"><draw:image xlink:href="https://github.com/wachin/Los-centenarios-de-Okinawa/raw/main/vx_images/00.09.08-12-países-más-industrializados-del-mundo.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
       </draw:frame></draw:a></text:p>
     <text:p text:style-name="P2">en 2009 estaba en último lugar</text:p>
     <text:p text:style-name="P3">Más información</text:p>
-    <text:p text:style-name="P7"><text:span text:style-name="T4">Genetic determinants of exceptional human longevity: insights from the Okinawa Centenarian Study</text:span><text:span text:style-name="T3"><text:line-break/></text:span><text:soft-page-break/><text:span text:style-name="T2"> </text:span><text:a xlink:type="simple" xlink:href="https://link.springer.com/article/10.1007/s11357-006-9020-x" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T5">https://link.springer.com/article/10.1007/s11357-006-9020-x</text:span></text:a></text:p>
-    <text:p text:style-name="Standard"/>
+    <text:p text:style-name="P7"><text:span text:style-name="T4">Genetic determinants of exceptional human longevity: insights from the Okinawa Centenarian Study</text:span><text:span text:style-name="T3"><text:line-break/></text:span><text:span text:style-name="T2"> </text:span><text:a xlink:type="simple" xlink:href="https://link.springer.com/article/10.1007/s11357-006-9020-x" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T5">https://link.springer.com/article/10.1007/s11357-006-9020-x</text:span></text:a></text:p>
    </text:section>
   </office:text>
  </office:body>
