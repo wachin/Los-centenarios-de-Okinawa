@@ -10,7 +10,7 @@ Dirigido por Emmanuel Roblin. Parte de este documental se puede ver en:
 
 El documental completo se lo puede ver en: 
 
-**El misterio de los centenarios** | 50:03 min
+**El misterio de los centenarios** | 50:03 min | Video:
 https://gloria.tv/post/aPqpZdKz621D1D3fv9SNKzETS
 
 **L**o siguiente es una transcripción que Washingotn Indacochea Delgado he hecho de ese documental en youtube:
