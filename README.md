@@ -2,7 +2,7 @@
 # El misterio de los centenarios
 Dirigido por Emmanuel Roblin. Parte de este documental se puede ver en:
 
-**El misterio de los centenarios** | 9:20 min 
+**El misterio de los centenarios** | 9:20 min | video, da clic:  
 [![Video](https://img.youtube.com/vi/gzcHxZg_rjY/hqdefault.jpg)](https://youtu.be/gzcHxZg_rjY)
 
 **Emitido originalmente en el 2013 por: RTVE.ES / DOCUMENTOS TV | 53 min**  
@@ -10,7 +10,7 @@ Dirigido por Emmanuel Roblin. Parte de este documental se puede ver en:
 
 El documental completo se lo puede ver en: 
 
-**El misterio de los centenarios** | 50:03 min, video, da clic:
+**El misterio de los centenarios** | 50:03 min | video, da clic:  
 https://gloria.tv/post/aPqpZdKz621D1D3fv9SNKzETS
 
 **L**o siguiente es una transcripción que Washingotn Indacochea Delgado he hecho de ese documental en youtube:
